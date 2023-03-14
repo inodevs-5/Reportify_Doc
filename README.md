@@ -55,3 +55,50 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 
 ## :gear: Back-end
 * [Clique aqui para acessar o código Back-end ](https://github.com/inodevs-5/Reportify_Backend)
+
+ ## :page_with_curl: Backlog
+<h1 align="center"><img src = "" width="80%"></h1>
+
+<h5 align="center">Prioridade:<br>
+🔴- Alta,
+🟡- Média,
+🟢- Baixa.<br></h5>
+
+## :computer: Wireframe
+
+* [Clique aqui!]()  
+> _Acesse o link acima para visualizar o protótipo no Figma._ 
+
+
+ ## :rocket: Tecnologias
+
+#### **Front-end**  
+
+
+#### **Back-end**  
+
+
+#### **Data-base**  
+
+
+> _As ferramentas acima estão sendo utilizadas no desenvolvimento do projeto._
+
+## :mortar_board: Dev Team
+
+| Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
+| ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+|__Anderson Lira__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()  | [![](https://bit.ly/2P1ZogM)]() |
+|__Debora Conceição Faria__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/deborafaria01)| [![](https://bit.ly/2P1ZogM)](https://bit.ly/2QwcT8R) |
+|__Felipe Augusto dos Santos Sousa__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/FelipeASousa)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/felipe-s-89938418a/) |
+|__Gustavo Kenji Ando__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GustavoAndo)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-ando-054414209/) |
+|__Júlia Maria Santos Barroso__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/jumajubs)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
+|__Kauã Gustavo Rodrigues Reno__  |  *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Kaua-Reno)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
+|__Luís Henrique Ferreira Souza__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza//) |
+|__Maria Eduarda Macedo Braga__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
+|__Richard Rafael Sacramento Soares__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Richardrafael)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/richardsoaress) |
+|__Vitória Cristina Saturnino de Moura__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/vitoriasaturnino)  | [![](https://bit.ly/2P1ZogM)]() |
+
+
+<h1 align="center"></h1>
+
+##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2022 - Fatec São José dos Campos </center>
