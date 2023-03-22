@@ -10,7 +10,7 @@
   <a href ="#gear-back-end"> Back-end </a>  • 
   <a href ="#page_with_curl-backlog"> Backlog </a>  •  
   <a href ="#computer-wireframe"> Wireframe</a>  • 
-  <a href ="#paperclip-tecnologias"> Tecnologias </a>  •  
+  <a href ="#rocket-tecnologias"> Tecnologias </a>  •  
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
@@ -57,7 +57,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 * [Clique aqui para acessar o código Back-end ](https://github.com/inodevs-5/Reportify_Backend)
 
  ## :page_with_curl: Backlog
-<h1 align="center"><img src = "" width="80%"></h1>
+<h1 align="center"><img src = "https://cdn.discordapp.com/attachments/901303352883822635/1088049521310846996/image.png" width="45%"></h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
@@ -66,7 +66,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 
 ## :computer: Wireframe
 
-* [Clique aqui!]()  
+* [Clique aqui!](https://www.figma.com/file/GvwC1jGe64qvfg9INSTXQY/iacit?node-id=0%3A1&t=KOjui4GE)  
 > _Acesse o link acima para visualizar o protótipo no Figma._ 
 
 
