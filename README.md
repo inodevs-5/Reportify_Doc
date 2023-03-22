@@ -73,13 +73,13 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
  ## :rocket: Tecnologias
 
 #### **Front-end**  
-
+ ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### **Back-end**  
-
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### **Data-base**  
-
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 > _As ferramentas acima estão sendo utilizadas no desenvolvimento do projeto._
 
