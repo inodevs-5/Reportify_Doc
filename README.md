@@ -87,16 +87,15 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 
 | Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-|__Anderson Lira__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)]()  | [![](https://bit.ly/2P1ZogM)]() |
+|__Anderson Lira__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/alira1984)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/anderson-lira-ads) |
 |__Debora Conceição Faria__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/deborafaria01)| [![](https://bit.ly/2P1ZogM)](https://bit.ly/2QwcT8R) |
-|__Felipe Augusto dos Santos Sousa__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/FelipeASousa)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/felipe-s-89938418a/) |
 |__Gustavo Kenji Ando__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GustavoAndo)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-ando-054414209/) |
 |__Júlia Maria Santos Barroso__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/jumajubs)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) |
 |__Kauã Gustavo Rodrigues Reno__  |  *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Kaua-Reno)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
-|__Luís Henrique Ferreira Souza__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza//) |
+|__Luís Henrique Ferreira Souza__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/Luisttine)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
 |__Maria Eduarda Macedo Braga__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/madu-braga)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
 |__Richard Rafael Sacramento Soares__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Richardrafael)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/richardsoaress) |
-|__Vitória Cristina Saturnino de Moura__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/vitoriasaturnino)  | [![](https://bit.ly/2P1ZogM)]() |
+|__Vitória Cristina Saturnino de Moura__  | *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/vitoriasaturnino)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/vit%C3%B3ria-cristina-saturnino-de-moura-6393391b0/) |
 
 
 <h1 align="center"></h1>
