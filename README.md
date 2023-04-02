@@ -43,7 +43,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 ## :calendar: Planejamento
 
 * [x] __Kick-off__ - 28/02/2023
-* [ ] [__Sprint 1__]() - 13/03/2023 a 12/04/2023  
+* [X] [__Sprint 1__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-1) - 13/03/2023 a 12/04/2023  
 * [ ] [__Sprint 2__]() - 03/04/2023 a 23/04/2023  
 * [ ] [__Sprint 3__]() - 24/04/2023 a 14/05/2023   
 * [ ] [__Sprint 4__]() - 15/05/2023 a 04/06/2023   
