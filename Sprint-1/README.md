@@ -12,7 +12,7 @@
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da primeira entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v1.0)
+* [Clique aqui para acessar o código Back-end da primeira entrega](https://github.com/inodevs-5/Reportify_Backend/releases/tag/v1.0)
 ##
 
 
