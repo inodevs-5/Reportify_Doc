@@ -56,13 +56,104 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 ## :gear: Back-end
 * [Clique aqui para acessar o código Back-end ](https://github.com/inodevs-5/Reportify_Backend)
 
- ## :page_with_curl: Backlog
-<h1 align="center"><img src = "https://cdn.discordapp.com/attachments/901303352883822635/1088049521310846996/image.png" width="45%"></h1>
+## User Stories
 
-<h5 align="center">Prioridade:<br>
-🔴- Alta,
-🟡- Média,
-🟢- Baixa.<br></h5>
+<div id="table_use_cases" align="center" width="400">
+  <table align="justify">
+    <tr>
+      <th>User Story id</th>
+      <th>Como um (ator)</th>
+      <th>Eu quero (ação)</th>
+      <th>Para que seja possível (funcionalidade)</th>
+      <th>Prioridade</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Administrador</td>
+      <td>Acessar as funcionalidades destinadas ao administrador do sistema</td>
+      <td>Cadastrar novos usários, acompanhar todos os Registros de Ocorrência criados no aplicativo, enviar mensagem a outros usuários em caso de dúvidas por meio do chat após realizar o login no app.</td>
+      <td>M</td>
+    </tr>
+     <tr>
+      <td>2</td>
+      <td>Cliente</td>
+      <td>Ter acesso a uma área com as funcionalidades destinadas somente aos clientes</td>
+      <td>Realizar a criação de Registros de Ocorrências, acompanha-los durante seu tratamento e entrar em contato com o desenvolvedor da IACIT em caso de dúvidas após realizar login no aplicativo.</td>
+      <td>M</td>
+    </tr>
+     <tr>
+      <td>3</td>
+      <td>Usuário</td>
+      <td>Criar novos Registros de Ocorrência  e acompanhar todas as atualizações de status desde o momento de sua criação até sua conclusão</td>
+      <td>Evitar ruídos de comunicação e a solução dos possíveis problemas que possam ocorrer nas empresas clientes que utilizam os produtos/serviços oferecidos pela IACIT.</td>
+      <td>M</td>
+    </tr>
+     <tr>
+      <td>4</td>
+      <td>Cliente</td>
+      <td>Poder me comunicar com o administrador do sistema via chat</td>
+      <td>Esclarecer possíveis dúvidas que venham a surgir durante o tratamento do Registro de Ocorrência.</td>
+      <td>S</td>
+    </tr>
+     <tr>
+      <td>5</td>
+      <td>Usuário</td>
+      <td>Receber notificações via e-mail e no app sobre mudanças de status dos Registros de Ocorrências relacionados a mim</td>
+      <td>Acompanhar em tempo real as atualizações de status de um RO.</td>
+      <td>M</td>
+    </tr>
+     <tr>
+      <td>6</td>
+      <td>Usuário</td>
+      <td>Receber notificações do aplicativo também em meu e-mail</td>
+      <td>Acompanhar todas as atualizações realizadas no aplicativo, tanto por parte dos clientes da IACIT, quanto pelos administradores do app.</td>
+      <td>S</td>
+    </tr>
+     <tr>
+      <td>7</td>
+      <td>Administrador</td>
+      <td>Ter acesso a relatórios e gráficos com a sumarização dos Registros de Ocorrência</td>
+      <td>Acompanhar as médias de ROs criados, em tratamento, solucionados entre outras métricas.</td>
+      <td>S</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Usuário</td>
+      <td>Receber meus dados cadastrados no sistema no ato da criação da conta</td>
+      <td>Ter uma cópia dos dados salvos na base de dados.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Usuário</td>
+      <td>Ter a opção de solicitar a edição dos meus dados ao administrador do sistema</td>
+      <td>Corrigir dados que eventualmente possam estar errados ou atualizar alguma informação.</td>
+      <td>S</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Usuários</td>
+      <td>Poder solicitar a exclusão do meu cadastro do aplicativo de acordo com a Lei Geral de Proteção de Dados</td>
+      <td>Eliminar qualquer dado sensível que me pertença da base de dados do aplicativo.</td>
+      <td>M</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Administrador</td>
+      <td>Uma funcionalidade de backup automatizado do banco de dados</td>
+      <td>Garantir a segurança e a integridade dos dados armazenados, de forma a minimizar a perda de dados em caso de falhas ou incidentes.</td>
+      <td>M</td>
+    </tr>
+  </table>
+</div>
+
+### A priorização das user stories foi feita com basea no método MoSCoW:
+
+- Must Have (M): Funcionalidades essenciais para o funcionamento básico do aplicativo.
+- Should Have (S): Funcionalidades importantes, mas que não são críticas para o funcionamento básico do aplicativo.
+- Could Have (C): Funcionalidades desejáveis, mas que podem ser adiadas ou excluídas sem comprometer o funcionamento básico do aplicativo.
+- Won't Have (W): Funcionalidades que não são consideradas importantes para esta versão do aplicativo e podem ser incluídas em versões futuras.
+As user stories foram priorizadas de acordo com a importância das funcionalidades que elas representam, considerando a perspectiva dos usuários e a necessidade de atender às expectativas do negócio.
 
 ## :computer: Wireframe
 
