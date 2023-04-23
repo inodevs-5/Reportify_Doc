@@ -28,8 +28,9 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 1. &nbsp; Área de Cliente e áreade Administrador, com controles de acesso (autenticação/autorização);
 2. &nbsp; Opções de criar e acompanhar ROs;
 3. &nbsp; Comunicação com os administradores do sistema via chat;
-4. &nbsp; Atualização do Status das ROs em tempo real•Envio de e-mail com notificações para o cliente e administradores;
-5. &nbsp; Relatórios/gráficos de sumarização das ROs.
+4. &nbsp; Atualização do Status das ROs em tempo real;
+5. &nbsp; Envio de e-mail com notificações para o cliente e administradores;
+6. &nbsp; Relatórios/gráficos de sumarização das ROs.
 
 **Requisitos Não Funcionais**
 1. &nbsp; Documentação com mapeamento das regras de negócio do cliente;
@@ -44,7 +45,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 
 * [x] __Kick-off__ - 28/02/2023
 * [X] [__Sprint 1__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-1) - 13/03/2023 a 12/04/2023  
-* [ ] [__Sprint 2__]() - 03/04/2023 a 23/04/2023  
+* [X] [__Sprint 2__]() - 03/04/2023 a 23/04/2023  
 * [ ] [__Sprint 3__]() - 24/04/2023 a 14/05/2023   
 * [ ] [__Sprint 4__]() - 15/05/2023 a 04/06/2023   
 * [ ] __Feira de Soluções__ - 13/06/2022 a 14/06/2023 
@@ -171,8 +172,8 @@ As user stories foram priorizadas de acordo com a importância das funcionalidad
 
 #### **Data-base**  
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-> _As ferramentas acima estão sendo utilizadas no desenvolvimento do projeto._
+ 
+<br>
 
 ## :mortar_board: Dev Team
 
