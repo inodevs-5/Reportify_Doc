@@ -8,7 +8,7 @@
   <a href ="#calendar-planejamento"> Planejamento </a>  • 
   <a href ="#iphone-front-end-mobile"> Front-end Mobile </a>  •
   <a href ="#gear-back-end"> Back-end </a>  • 
-  <a href ="#page_with_curl-backlog"> Backlog </a>  •  
+  <a href ="#book-user-stories"> User Stories </a>  •  
   <a href ="#computer-wireframe"> Wireframe</a>  • 
   <a href ="#rocket-tecnologias"> Tecnologias </a>  •  
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
@@ -57,7 +57,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 ## :gear: Back-end
 * [Clique aqui para acessar o código Back-end ](https://github.com/inodevs-5/Reportify_Backend)
 
-## User Stories
+## :book: User Stories
 
 <div id="table_use_cases" align="center" width="400">
   <table align="justify">
