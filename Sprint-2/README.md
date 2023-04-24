@@ -1,5 +1,5 @@
  ## :page_with_curl: Backlog Sprint 2
-<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-1/Imagens/backlog_sprint2.png" width="45%"></h1>
+<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-2/Imagens/backlog_sprint2.png" width="45%"></h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
