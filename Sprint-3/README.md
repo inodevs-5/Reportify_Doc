@@ -8,11 +8,11 @@
 
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile](link)
+* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](link)
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end](link)
+* [Clique aqui para acessar o código Back-end da terceira entrega](link)
 ##
 
 
