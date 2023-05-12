@@ -8,11 +8,11 @@
 
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile da primeira entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v2.0)
+* [Clique aqui para acessar o código Front-end Mobile da segunda entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v2.0)
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da primeira entrega](https://github.com/inodevs-5/Reportify_Backend/releases/tag/v2.0)
+* [Clique aqui para acessar o código Back-end da segunda entrega](https://github.com/inodevs-5/Reportify_Backend/releases/tag/v2.0)
 ##
 
 
@@ -44,4 +44,4 @@
 
 <h1 align="center"></h1>
 
-##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2022 - Fatec São José dos Campos </center>
+##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2023 - Fatec São José dos Campos </center>
