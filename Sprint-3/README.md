@@ -1,5 +1,5 @@
  ## :page_with_curl: Backlog Sprint 3
-<h1 align="center"><img src = "link" width="45%"></h1>
+<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-3/Imagens/backlog_sprint3.png" width="45%"></h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
@@ -8,11 +8,11 @@
 
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](link)
+* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](https://github.com/inodevs-5/Reportify_Frontend_App)
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da terceira entrega](link)
+* [Clique aqui para acessar o código Back-end da terceira entrega](https://github.com/inodevs-5/Reportify_Backend)
 ##
 
 
