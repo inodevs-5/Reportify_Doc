@@ -8,16 +8,27 @@
 
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](https://github.com/inodevs-5/Reportify_Frontend_App)
+* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v3.0)
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da terceira entrega](https://github.com/inodevs-5/Reportify_Backend)
+* [Clique aqui para acessar o código Back-end da terceira entrega](https://github.com/inodevs-5/Reportify_Backend/releases/tag/v3.0)
 ##
 
 
 ## :arrow_forward: Execução da Entrega
 
+### Chat
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-3/Imagens/Chat.gif" width="90%">
+
+### Notificações
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-3/Imagens/Notificacoes.gif" width="90%">
+
+### Redefinição de Senha
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-3/Imagens/RedefinicaoSenha.gif" width="90%">
+
+### Criptografia e Backup
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-3/Imagens/CriptografiaBackup.gif" width="90%">
 
 
 ## :mortar_board: Dev Team
