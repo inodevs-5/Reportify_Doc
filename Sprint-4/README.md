@@ -8,11 +8,11 @@
 
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile da terceira entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v3.0)
+* [Clique aqui para acessar o código Front-end Mobile da quarta entrega]( link )
 
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da terceira entrega](https://github.com/inodevs-5/Reportify_Backend/releases/tag/v3.0)
+* [Clique aqui para acessar o código Back-end da quarta entrega]( link )
 ##
 
 
