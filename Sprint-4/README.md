@@ -9,7 +9,6 @@
 
 ## 💻: Front-end Web
 * [Clique aqui para acessar o código Front-end Web da quarta entrega]( link )
-##
 
 ## :iphone: Front-end Mobile
 * [Clique aqui para acessar o código Front-end Mobile da quarta entrega]( link )
