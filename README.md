@@ -47,7 +47,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 * [X] [__Sprint 1__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-1) - 13/03/2023 a 12/04/2023  
 * [X] [__Sprint 2__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-2) - 03/04/2023 a 23/04/2023  
 * [X] [__Sprint 3__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-3) - 24/04/2023 a 14/05/2023   
-* [ ] [__Sprint 4__]() - 15/05/2023 a 04/06/2023   
+* [X] [__Sprint 4__](https://github.com/inodevs-5/Reportify_Doc/tree/main/Sprint-4) - 15/05/2023 a 04/06/2023   
 * [ ] __Feira de Soluções__ - 13/06/2022 a 14/06/2023 
 >_Acesse a pasta referente a entrega da sprint clicando no link acima_  <br>
 
