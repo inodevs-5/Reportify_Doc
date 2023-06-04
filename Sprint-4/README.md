@@ -8,7 +8,7 @@
 
 
 ## 💻 Front-end Web
-* [Clique aqui para acessar o código Front-end Web da quarta entrega]( link )
+* [Clique aqui para acessar o código Front-end Web da quarta entrega](https://github.com/inodevs-5/Reportify-Frontend-Web)
 
 ## :iphone: Front-end Mobile
 * [Clique aqui para acessar o código Front-end Mobile da quarta entrega]( link )
