@@ -8,22 +8,23 @@
 
 
 ## 💻 Front-end Web
-* [Clique aqui para acessar o código Front-end Web da quarta entrega](https://github.com/inodevs-5/Reportify-Frontend-Web)
+* [Clique aqui para acessar o código Front-end Web da quarta entrega](https://github.com/inodevs-5/Reportify-Frontend-Web/releases/tag/v1.0)
 
 ## :iphone: Front-end Mobile
-* [Clique aqui para acessar o código Front-end Mobile da quarta entrega]( link )
+* [Clique aqui para acessar o código Front-end Mobile da quarta entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v4.0)
 
 ## :gear: Back-end
-* [Clique aqui para acessar o código Back-end da quarta entrega]( link )
+* [Clique aqui para acessar o código Back-end da quarta entrega](https://github.com/inodevs-5/Reportify_Frontend_App/releases/tag/v4.0)
 ##
 
 
 ## :arrow_forward: Execução da Entrega
 
 ### Telas Web
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-4/Imagens/VersaoWeb.gif" width="90%">
 
-### Relatórios de ROs 
-
+### Relatórios de ROs, número de notificações e segurança
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-4/Imagens/RelatorioESeguranca.gif" width="90%">
 
 
 ## :mortar_board: Dev Team
